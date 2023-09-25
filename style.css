@@ -1,0 +1,38 @@
+html {
+    font-family: arial, san-serif;
+}
+body {
+    background-img: url(1.jpeg);
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    }
+h1 {
+    color: tomato;
+    font-size: 50px;
+    display: block;
+    position: absolute;
+}
+.app {
+    width: 100%;
+    height: 100vh;
+    background-img: url(1.jpeg);
+    display: flex;
+    justify-content: center;
+}
+.buttonGroup {
+    margin-top: 150px;
+    
+}
+button {
+    position: absolute;
+    display: flex;
+    cursor: pointer;
+    margin: 0 10px;
+    padding: 10px 30px;
+    background-color: orange;
+    border: none;
+}
+.button--no {
+    right: 50%;
+}

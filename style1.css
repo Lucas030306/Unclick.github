@@ -1,0 +1,13 @@
+img {
+    width: 50%;
+    height: 50vh;
+    justify-content: center;
+}
+h2 {
+    display: block;
+    position: absolute;
+}
+p {
+    margin-top: 5%;
+    
+}
